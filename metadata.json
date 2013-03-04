@@ -1,0 +1,26 @@
+{
+  "name": "flakrat-ssh",
+  "author": "flakrat",
+  "description": "Based on example in \"Pro Puppet\", by James Turnbull",
+  "license": "Apache Software License 2.0",
+  "project_page": "https://github.com/flakrat/ssh",
+  "source": "https://github.com/flakrat/ssh.git",
+  "summary": "Module to manage SSH client and server",
+  "version": "0.1.0",
+  "checksums": {
+    "LICENSE": "2b42edef8fa55315f34f2370b4715ca9",
+    "Modulefile": "8264418f08564a224fc2cd9316f4df05",
+    "README.markdown": "4bd6a6c15f366523733bf1874ba67f7a",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "files/sshd_config": "3abeceeda4fac48345fcd6e4d003647e",
+    "manifests/config.pp": "191714331a6c85943c76f0f28f1854bc",
+    "manifests/init.pp": "bde3281df3bab58b3e092314ec7617a0",
+    "manifests/install.pp": "ca39e6f5182396b48442a3813cb40f01",
+    "manifests/params.pp": "687fb7b96a750ded8709579e64e5e32b",
+    "manifests/service.pp": "85571baf06dbdfc70612749e679b91bd",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "423466ae46899d6a0480aa9910b096d2"
+  },
+  "dependencies": []
+}
